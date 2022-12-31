@@ -9,7 +9,7 @@ disp("Nand Gate :5")
 disp("Xor Gate  :6")
 disp("Xnor Gate :7")
 disp("For all gates :8")
-Table=input("Enter number for the required truth table :");
+Table=input("Enter Number for the required truth table :");
 t1=[0;1];
 t2=[0,0;0,1;1,0;1,1];
 [r1,c1]=size(t1);
