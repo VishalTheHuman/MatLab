@@ -1,3 +1,5 @@
+% Truth Table
+
 clear all;
 clc;
 disp("Truth Table")
